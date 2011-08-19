@@ -1,0 +1,7 @@
+h1. CanvasGrid
+
+CanvasGrid is a simple html5 canvas 'grid'
+
+I wrote this to help me debug a canvas issue.
+
+It may be helpful for css. In the future, I might turn this into a bookmarklet.
